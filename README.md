@@ -5,7 +5,7 @@ Attendance System Using Face Recognition with Real Time Database and option to a
 
 ### System Functions
 
-  1-detect face and meassure similarties between all users faces on database .
+  1-detect face and meassure similarties between all users faces on database .\n
   
   2-record attendence for user on realtime database.
   
